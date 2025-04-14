@@ -1,4 +1,4 @@
-module github.com/JBenedicto13/go-todo-cli-app
+module go-todo-cli-app
 
 go 1.23.4
 
